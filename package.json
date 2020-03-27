@@ -26,7 +26,7 @@
     "babel-eslint": "^4.1.2",
     "babel-loader": "^5.3.2",
     "webpack": "^1.12.1",
-    "webpack-dev-server": "^1.11.0",
+    "webpack-dev-server": "^3.1.11",
     "webpack-merge": "^0.2.0"
   }
 }
