@@ -3,9 +3,7 @@
   "version": "0.0.1",
   "description": "Workable h265 player for react",
   "main": "src/ReactH265Player",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+git@github.com:tcper/react-h265-wasm-player.git"
@@ -21,12 +19,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "babel": "^5.8.23",
-    "babel-core": "^5.8.24",
-    "babel-eslint": "^4.1.2",
-    "babel-loader": "^5.3.2",
-    "webpack": "^1.12.1",
-    "webpack-dev-server": "^1.11.0",
-    "webpack-merge": "^0.2.0"
+    "webpack": "^4.42.1",
+    "webpack-dev-server": "^3.10.3"
   }
 }
