@@ -1,4 +1,4 @@
-# React H265 WASM Player [![NPM Package][npm_img]][npm_site] [![Travis Status][trav_img]][trav_site]
+# React H265 WASM Player 
 
 A higher-level react component to play h265 video
 

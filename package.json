@@ -4,8 +4,7 @@
   "description": "Workable h265 player for react",
   "main": "src/ReactH265Player",
   "scripts": {
-    "start": "node server.js",
-    "lint": "eslint src"
+    
   },
   "repository": {
     "type": "git",
